@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+mall.mengguochengzhen.cn	FALSE	/mgcz	FALSE		sid	ed111dd9-6d1a-4aff-84d4-47894f8ebf91
